@@ -6,12 +6,24 @@ In keeping with their guidelines, I keep the amount of time I worked on the proj
 ## Guidelines 
 **PARAMETERS**
 
-Create a simple game using AS3, adhering to these guidelines:1. Use a combination of slots and bingo to create a small web game.2. The player should be able to load the game, start gameplay from a UI, play a game, seethe results of their game, and start a new game.3. Keep iteration and live product support in mind.
-Note that we will be reviewing both the game you create and the actual code that you write. Please note that we are looking for a simple game experience. We do not require candidates to create power-ups, challenges, web calls, save states or any other large systems. **TIMEFRAME**This test should take you no more than a day of work. A day is about 8 hours. We don’t believein crunch!
+Create a simple game using AS3, adhering to these guidelines:
+
+1. Use a combination of slots and bingo to create a small web game.
+
+2. The player should be able to load the game, start gameplay from a UI, play a game, see
+the results of their game, and start a new game.
+
+3. Keep iteration and live product support in mind.
+
+Note that we will be reviewing both the game you create and the actual code that you write. Please note that we are looking for a simple game experience. We do not require candidates to create power-ups, challenges, web calls, save states or any other large systems. 
+
+**TIMEFRAME**
+This test should take you no more than a day of work. A day is about 8 hours. We don’t believe
+in crunch!
 
 ## Results
 
-The results of the test are [here](http://amigaabttoir.github.com/ProgrammingTest-PrizeBingo)
+The results of the test are [here](http://amigaabattoir.github.io/ProgrammingTest-PrizeBingo)
 
 I used Flash Professional CS6 for the art work and Flash Builder 4.6 for the coding.
 
