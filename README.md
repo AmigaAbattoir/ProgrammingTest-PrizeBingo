@@ -21,7 +21,7 @@ Note that we will be reviewing both the game you create and the actual code that
 This test should take you no more than a day of work. A day is about 8 hours. We don’t believe
 in crunch!
 
-## Results
+## [Results](http://amigaabattoir.github.io/ProgrammingTest-PrizeBingo)
 
 The results of the test are [here](http://amigaabattoir.github.io/ProgrammingTest-PrizeBingo)
 
