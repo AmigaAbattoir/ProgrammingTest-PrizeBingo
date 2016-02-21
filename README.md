@@ -1,7 +1,7 @@
 # Programming Test - Prize Bingo
 Here is the source code for a programming test I completed for a job interview at a game studio that produced online Flash games.
 
-In keeping with their guidelines, I keep the amount of time I worked on the project to 8.5 hours and then I spent another 45 minutes documenting and packaging everything.
+In keeping with their guidelines, I kept the amount of time I worked on the project to 8.5 hours and then I spent another 45 minutes documenting and packaging everything.
 
 ## Guidelines 
 **PARAMETERS**
@@ -18,8 +18,8 @@ the results of their game, and start a new game.
 Note that we will be reviewing both the game you create and the actual code that you write. Please note that we are looking for a simple game experience. We do not require candidates to create power-ups, challenges, web calls, save states or any other large systems. 
 
 **TIMEFRAME**
-This test should take you no more than a day of work. A day is about 8 hours. We don’t believe
-in crunch!
+
+This test should take you no more than a day of work. A day is about 8 hours. We don’t believe in crunch!
 
 ## [Results](http://amigaabattoir.github.io/ProgrammingTest-PrizeBingo)
 
